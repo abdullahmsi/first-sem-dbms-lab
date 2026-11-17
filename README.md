@@ -1,6 +1,6 @@
 # First Semester DBMS Lab (`first-sem-dbms-lab`)
 
-This repository contains my practical lab assignments for the Year 1, Semester I Database Management System (DBMS) Lab (Course Code: `BCAIOT-107P`). It covers implementing database concepts using SQL, designing schemas, and performing data manipulation and retrieval[cite: 3].
+This repository contains my practical lab assignments for the Year 1, Semester I Database Management System (DBMS) Lab. It covers implementing database concepts using SQL, designing schemas, and performing data manipulation and retrieval[cite: 3].
 
 ## What's Inside
 
